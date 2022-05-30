@@ -4,7 +4,11 @@ export function Counter() {
   
   return (
     <div>
-      
+      <div>
+        <button>
+          Increment
+        </button>
+      </div>
     </div>
   )
 }
