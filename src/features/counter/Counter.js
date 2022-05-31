@@ -8,6 +8,9 @@ export function Counter() {
         <button>
           Increment
         </button>
+        <button>
+          Decrement
+        </button>
       </div>
     </div>
   )
