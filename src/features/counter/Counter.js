@@ -22,6 +22,12 @@ export function Counter() {
         >
           -
         </button>
+        <button
+          aria-label="Increment value"
+          onClick={() => dispatch(incrementByAmount(5))}
+        >
+          Increment By 5
+        </button>
       </div>
     </div>
   )
